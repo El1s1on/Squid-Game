@@ -1,0 +1,5480 @@
+newmtl Part23Mtl
+Material Color
+Ka 0.625345 0.766744 1
+Kd 0.625345 0.766744 1
+Ks 0.0539513 0.0661504 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part23_spec.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part1_spec.png
+
+newmtl Part4Mtl
+Material Color
+Ka 0.625345 0.766744 1
+Kd 0.625345 0.766744 1
+Ks 0.0539513 0.0661504 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part4_spec.png
+
+newmtl Part707Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part707_spec.png
+
+newmtl Part56Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part56_spec.png
+
+newmtl Baseplate1Mtl
+Material Color
+Ka 0.789314 0.529523 0.288816
+Kd 0.789314 0.529523 0.288816
+Ks 0.061907 0.0415312 0.0226522 
+
+d 1
+
+Ns 0
+
+map_Ka Extrafloor1_diff.png
+map_Kd Extrafloor1_diff.png
+map_d Extrafloor1_diff.png
+
+map_Bump Extrafloor1_nmap.png
+
+map_Ns Baseplate1_spec.png
+
+newmtl Part854Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part854_spec.png
+
+newmtl Union28Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union28_spec.png
+
+newmtl Part14Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part14_spec.png
+
+newmtl Part2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part2_spec.png
+
+newmtl Part856Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part856_spec.png
+
+newmtl Part833Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part833_spec.png
+
+newmtl Part3Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part3_spec.png
+
+newmtl Part5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part5_diff.png
+map_Kd Part5_diff.png
+map_d Part5_diff.png
+
+newmtl Part140Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.152941
+
+Ns 0
+
+newmtl Part27Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part27_spec.png
+
+newmtl Part53Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part53_spec.png
+
+newmtl Union22Mtl
+Material Color
+Ka 0.0824142 0.20471 0.43134
+Kd 0.0824142 0.20471 0.43134
+Ks 0.00517109 0.0128446 0.0270645 
+
+d 1
+
+Ns 0
+
+newmtl Part6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 0.701961
+
+Ns 0
+
+map_Ka Part6_diff.png
+map_Kd Part6_diff.png
+map_d Part6_diff.png
+
+newmtl Part63Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part63_spec.png
+
+newmtl Part8Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0600316
+Kd 0.0169881 0.215764 0.0600316
+Ks 0.00106592 0.0135382 0.00376669 
+
+d 1
+
+Ns 0
+
+newmtl Part675Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part675_spec.png
+
+newmtl Part83Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part83_spec.png
+
+newmtl Part59Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part59_spec.png
+
+newmtl Part135Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.352941
+
+Ns 0
+
+newmtl Part7Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 1
+
+Ns 0
+
+newmtl Part95Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part95_spec.png
+
+newmtl Part11Mtl
+Material Color
+Ka 0.625345 0.766744 1
+Kd 0.625345 0.766744 1
+Ks 0.0539513 0.0661504 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part11_spec.png
+
+newmtl Part790Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part790_spec.png
+
+newmtl Part15Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part15_spec.png
+
+newmtl Part47Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part47_spec.png
+
+newmtl Extrafloor1Mtl
+Material Color
+Ka 0.789314 0.529523 0.288816
+Kd 0.789314 0.529523 0.288816
+Ks 0.061907 0.0415312 0.0226522 
+
+d 1
+
+Ns 0
+
+map_Ka Extrafloor1_diff.png
+map_Kd Extrafloor1_diff.png
+map_d Extrafloor1_diff.png
+
+map_Bump Extrafloor1_nmap.png
+
+map_Ns Extrafloor1_spec.png
+
+newmtl Part16Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part16_spec.png
+
+newmtl Part54Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part54_spec.png
+
+newmtl Part18Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part18_spec.png
+
+newmtl Part849Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part849_spec.png
+
+newmtl Part19Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part19_spec.png
+
+newmtl Star1Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0574588 0.0384041 0.00159192 
+
+d 1
+
+Ns 0
+
+newmtl Part21Mtl
+Material Color
+Ka 0.625345 0.766744 1
+Kd 0.625345 0.766744 1
+Ks 0.0539513 0.0661504 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part21_spec.png
+
+newmtl Part832Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part832_spec.png
+
+newmtl Part29Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part29_spec.png
+
+newmtl Part76Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part76_spec.png
+
+newmtl Part26Mtl
+Material Color
+Ka 0.436813 0.708298 1
+Kd 0.436813 0.708298 1
+Ks 0.0376858 0.061108 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part26_spec.png
+
+newmtl Part838Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part838_spec.png
+
+newmtl Part816Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part816_spec.png
+
+newmtl Part726Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part726_spec.png
+
+newmtl Union1Mtl
+Material Color
+Ka 0.625345 0.766744 1
+Kd 0.625345 0.766744 1
+Ks 0.0539513 0.0661504 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Union1_spec.png
+
+newmtl Union5Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.0673972 0.012217 0.012217 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Union5_spec.png
+
+newmtl Part858Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part858_spec.png
+
+newmtl Union6Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.00106592 0.0135382 0.00365096 
+
+d 1
+
+Ns 0
+
+newmtl Union7Mtl
+Material Color
+Ka 0.353741 0.363604 0.420508
+Kd 0.353741 0.363604 0.420508
+Ks 0.0638121 0.0655913 0.0758563 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Union7_spec.png
+
+newmtl Part66Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part66_spec.png
+
+newmtl Extrafloor2Mtl
+Material Color
+Ka 0.796917 0.541798 0.306635
+Kd 0.796917 0.541798 0.306635
+Ks 0.0625033 0.042494 0.0240498 
+
+d 1
+
+Ns 0
+
+map_Ka Extrafloor2_diff.png
+map_Kd Extrafloor2_diff.png
+map_d Extrafloor2_diff.png
+
+newmtl Part69Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part69_spec.png
+
+newmtl Part688Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part688_spec.png
+
+newmtl Part670Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part670_spec.png
+
+newmtl Offsetpart1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Offsetpart1_spec.png
+
+newmtl Part57Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part57_spec.png
+
+newmtl Part28Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.0540222 0.0546123 0.0582266 
+
+d 1
+
+Ns 0
+
+newmtl Part60Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part60_spec.png
+
+newmtl Part41Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part41_spec.png
+
+newmtl Part30Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part30_spec.png
+
+newmtl Part796Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part796_spec.png
+
+newmtl Part71Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part71_spec.png
+
+newmtl Part31Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part31_spec.png
+
+newmtl Part32Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part32_spec.png
+
+newmtl Part103Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part103_spec.png
+
+newmtl Part33Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part33_spec.png
+
+newmtl Part745Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part745_spec.png
+
+newmtl Part35Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part35_spec.png
+
+newmtl Part36Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part36_spec.png
+
+newmtl Part38Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part38_spec.png
+
+newmtl Part39Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part39_spec.png
+
+newmtl Part48Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part48_spec.png
+
+newmtl Part40Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part40_spec.png
+
+newmtl Part42Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part42_spec.png
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+newmtl Part44Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part44_spec.png
+
+newmtl Part45Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part45_spec.png
+
+newmtl Union11Mtl
+Material Color
+Ka 0.0370285 0.0802193 0.0302565
+Kd 0.0370285 0.0802193 0.0302565
+Ks 0.0029042 0.00629171 0.00237306 
+
+d 1
+
+Ns 22
+
+map_Ka Union11_diff.png
+map_Kd Union11_diff.png
+map_d Union11_diff.png
+
+map_Bump Union11_nmap.png
+
+map_Ns Union11_spec.png
+
+newmtl Part49Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part49_spec.png
+
+newmtl Part85Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part85_spec.png
+
+newmtl Part50Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part50_spec.png
+
+newmtl Part51Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part51_spec.png
+
+newmtl Part865Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part865_spec.png
+
+newmtl Part58Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part58_spec.png
+
+newmtl Part65Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part65_spec.png
+
+newmtl Part62Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part62_spec.png
+
+newmtl Part67Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part67_spec.png
+
+newmtl Union18Mtl
+Material Color
+Ka 0.368591 0.363604 0.378676
+Kd 0.368591 0.363604 0.378676
+Ks 0.0318 0.0313697 0.0326701 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Union18_spec.png
+
+newmtl Part68Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part68_spec.png
+
+newmtl Part845Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part845_spec.png
+
+newmtl Part813Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part813_spec.png
+
+newmtl Part681Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part681_spec.png
+
+newmtl Part72Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part72_spec.png
+
+newmtl Part74Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part74_spec.png
+
+newmtl Part75Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part75_spec.png
+
+newmtl Part77Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part77_spec.png
+
+newmtl Part78Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part78_spec.png
+
+newmtl Part80Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part80_spec.png
+
+newmtl Part835Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part835_spec.png
+
+newmtl Union26Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union26_spec.png
+
+newmtl Part81Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part81_spec.png
+
+newmtl Part84Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part84_spec.png
+
+newmtl Part810Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part810_spec.png
+
+newmtl Part86Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part86_spec.png
+
+newmtl Part828Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part828_spec.png
+
+newmtl Part87Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part87_spec.png
+
+newmtl Part802Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part802_spec.png
+
+newmtl Part89Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part89_spec.png
+
+newmtl Part90Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part90_spec.png
+
+newmtl Part92Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part92_spec.png
+
+newmtl Part680Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part680_spec.png
+
+newmtl Part93Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part93_spec.png
+
+newmtl Part728Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part728_spec.png
+
+newmtl Part94Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part94_spec.png
+
+newmtl Part96Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part96_spec.png
+
+newmtl Part98Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part98_spec.png
+
+newmtl Part99Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part99_spec.png
+
+newmtl Part753Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part753_spec.png
+
+newmtl Part101Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part101_spec.png
+
+newmtl Part102Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part102_spec.png
+
+newmtl Part711Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part711_spec.png
+
+newmtl Torus0051Mtl
+Material Color
+Ka 0.0209511 0.130352 0.00837312
+Kd 0.0209511 0.130352 0.00837312
+Ks 0.000492968 0.00306711 0.000197015 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus0051_spec.png
+
+newmtl Union10Mtl
+Material Color
+Ka 0.0103978 0.0600316 0.0169881
+Kd 0.0103978 0.0600316 0.0169881
+Ks 0.00159025 0.00918131 0.00259817 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Union10_spec.png
+
+newmtl Part104Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part104_spec.png
+
+newmtl Part105Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part105_spec.png
+
+newmtl Part107Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part107_spec.png
+
+newmtl Part108Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part108_spec.png
+
+newmtl Part110Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part110_spec.png
+
+newmtl Part837Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part837_spec.png
+
+newmtl Part111Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part111_spec.png
+
+newmtl Part112Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part112_spec.png
+
+newmtl Part433Mtl
+Material Color
+Ka 0.0302565 0.275833 0.0477758
+Kd 0.0302565 0.275833 0.0477758
+Ks 0.00189845 0.0173072 0.00299769 
+
+d 1
+
+Ns 0
+
+newmtl Part113Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part113_spec.png
+
+newmtl Part114Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part114_spec.png
+
+newmtl Part116Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part116_spec.png
+
+newmtl Union13Mtl
+Material Color
+Ka 0.368591 0.363604 0.378676
+Kd 0.368591 0.363604 0.378676
+Ks 0.0318 0.0313697 0.0326701 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Union13_spec.png
+
+newmtl Part117Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part117_spec.png
+
+newmtl Torus0011Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.0131882 0.000399719 0.000182377 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus0011_spec.png
+
+newmtl Part119Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part119_spec.png
+
+newmtl Part120Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part120_spec.png
+
+newmtl Part758Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part758_spec.png
+
+newmtl Part121Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part121_spec.png
+
+newmtl Part122Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part122_spec.png
+
+newmtl Part123Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part123_spec.png
+
+newmtl Part125Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part125_spec.png
+
+newmtl Clamp1Mtl
+Material Color
+Ka 0.306635 0.254916 0.25084
+Kd 0.306635 0.254916 0.25084
+Ks 0.0553145 0.0459848 0.0452496 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Clamp1_spec.png
+
+newmtl Part126Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.019078 0.0174232 0.0186566 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part126_spec.png
+
+newmtl Part682Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part682_spec.png
+
+newmtl Part128Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part128_spec.png
+
+newmtl Part129Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part129_spec.png
+
+newmtl Part130Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part130_spec.png
+
+newmtl Part131Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.940601 0.940601 0.940601 
+
+d 0.65098
+
+Ns 0
+
+map_Ka Part31_diff.png
+map_Kd Part31_diff.png
+map_d Part31_diff.png
+
+map_Bump Part31_nmap.png
+
+map_Ns Part131_spec.png
+
+newmtl Part678Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+newmtl Part132Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00129071 0.00341175 0.00569162 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part132_spec.png
+
+newmtl Part134Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part134_spec.png
+
+newmtl Part136Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.752941
+
+Ns 0
+
+newmtl Part137Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.45098
+
+Ns 0
+
+newmtl Part794Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part794_spec.png
+
+newmtl Part139Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.85098
+
+Ns 0
+
+newmtl Part141Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 0.65098
+
+Ns 0
+
+newmtl Part143Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.0234425 0.00424939 0.00424939 
+
+d 1
+
+Ns 0
+
+newmtl Part147Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.0574588 0.0388195 0.00159192 
+
+d 1
+
+Ns 0
+
+newmtl Union9Mtl
+Material Color
+Ka 0.0103978 0.0600316 0.0169881
+Kd 0.0103978 0.0600316 0.0169881
+Ks 0.00159025 0.00918131 0.00259817 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Union9_spec.png
+
+newmtl Part278Mtl
+Material Color
+Ka 0.133209 0.133209 0.139022
+Kd 0.133209 0.133209 0.139022
+Ks 0.0114925 0.0114925 0.0119941 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part278_spec.png
+
+newmtl Union12Mtl
+Material Color
+Ka 0.605484 0.22331 0.12753
+Kd 0.605484 0.22331 0.12753
+Ks 0.0498634 0.0183903 0.0105025 
+
+d 1
+
+Ns 0
+
+map_Ka Union12_diff.png
+map_Kd Union12_diff.png
+map_d Union12_diff.png
+
+map_Bump Union12_nmap.png
+
+map_Ns Union12_spec.png
+
+newmtl Part748Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part748_spec.png
+
+newmtl Union14Mtl
+Material Color
+Ka 0.0103978 0.0600316 0.0169881
+Kd 0.0103978 0.0600316 0.0169881
+Ks 0.00159025 0.00918131 0.00259817 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Union14_spec.png
+
+newmtl Union15Mtl
+Material Color
+Ka 0.0103978 0.0600316 0.0169881
+Kd 0.0103978 0.0600316 0.0169881
+Ks 0.00159025 0.00918131 0.00259817 
+
+d 1
+
+Ns 168
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Union15_spec.png
+
+newmtl Union16Mtl
+Material Color
+Ka 0.0370285 0.0802193 0.0302565
+Kd 0.0370285 0.0802193 0.0302565
+Ks 0.0029042 0.00629171 0.00237306 
+
+d 1
+
+Ns 22
+
+map_Ka Union11_diff.png
+map_Kd Union11_diff.png
+map_d Union11_diff.png
+
+map_Bump Union11_nmap.png
+
+map_Ns Union16_spec.png
+
+newmtl Part290Mtl
+Material Color
+Ka 0.133209 0.133209 0.139022
+Kd 0.133209 0.133209 0.139022
+Ks 0.0114925 0.0114925 0.0119941 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part290_spec.png
+
+newmtl Union17Mtl
+Material Color
+Ka 0.605484 0.22331 0.12753
+Kd 0.605484 0.22331 0.12753
+Ks 0.0498634 0.0183903 0.0105025 
+
+d 1
+
+Ns 0
+
+map_Ka Union12_diff.png
+map_Kd Union12_diff.png
+map_d Union12_diff.png
+
+map_Bump Union12_nmap.png
+
+map_Ns Union17_spec.png
+
+newmtl Part747Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part747_spec.png
+
+newmtl Part291Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Ns Part291_spec.png
+
+newmtl Sphere1Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.0215471 0.0145573 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Sphere1_spec.png
+
+newmtl Torus1Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.0215471 0.0145573 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus1_spec.png
+
+newmtl Torus0031Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.0131882 0.000399719 0.000182377 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus0031_spec.png
+
+newmtl Torus0041Mtl
+Material Color
+Ka 0.0209511 0.130352 0.00837312
+Kd 0.0209511 0.130352 0.00837312
+Ks 0.000492968 0.00306711 0.000197015 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus0041_spec.png
+
+newmtl Cylinder1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.0131882 0.000399719 0.000182377 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Cylinder1_spec.png
+
+newmtl Part691Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part691_spec.png
+
+newmtl Torus0061Mtl
+Material Color
+Ka 0.0209511 0.130352 0.00837312
+Kd 0.0209511 0.130352 0.00837312
+Ks 0.000492968 0.00306711 0.000197015 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Torus0061_spec.png
+
+newmtl Part668Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part668_spec.png
+
+newmtl Union19Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union19_spec.png
+
+newmtl Part685Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part685_spec.png
+
+newmtl Union20Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union20_spec.png
+
+newmtl Union21Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union21_spec.png
+
+newmtl Part666Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part666_spec.png
+
+newmtl Part867Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part867_spec.png
+
+newmtl Part667Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part667_spec.png
+
+newmtl Part669Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part669_spec.png
+
+newmtl Part671Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part671_spec.png
+
+newmtl Part672Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part672_spec.png
+
+newmtl Part841Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part841_spec.png
+
+newmtl Part673Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part673_spec.png
+
+newmtl Part674Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part674_spec.png
+
+newmtl Part809Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part809_spec.png
+
+newmtl Part676Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part676_spec.png
+
+newmtl Part677Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part677_spec.png
+
+newmtl Clamp2Mtl
+Material Color
+Ka 0.306635 0.254916 0.25084
+Kd 0.306635 0.254916 0.25084
+Ks 0.0553145 0.0459848 0.0452496 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Clamp2_spec.png
+
+newmtl Part683Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part683_spec.png
+
+newmtl Part687Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part687_spec.png
+
+newmtl Part689Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part689_spec.png
+
+newmtl Part861Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part861_spec.png
+
+newmtl Connection1Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Connection1_spec.png
+
+newmtl Part690Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part690_spec.png
+
+newmtl Part862Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part862_spec.png
+
+newmtl Connection2Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Connection2_spec.png
+
+newmtl Part786Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part786_spec.png
+
+newmtl Part692Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part692_spec.png
+
+newmtl Part693Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part693_spec.png
+
+newmtl Part834Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part834_spec.png
+
+newmtl Part694Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part694_spec.png
+
+newmtl Part695Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part695_spec.png
+
+newmtl Part696Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part696_spec.png
+
+newmtl Part701Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part701_spec.png
+
+newmtl Part705Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part705_spec.png
+
+newmtl Part706Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part706_spec.png
+
+newmtl Part708Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part708_spec.png
+
+newmtl Part709Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part709_spec.png
+
+newmtl Part710Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part710_spec.png
+
+newmtl Part782Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part782_spec.png
+
+newmtl Part712Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part712_spec.png
+
+newmtl Part713Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part713_spec.png
+
+newmtl Part714Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part714_spec.png
+
+newmtl Part720Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part720_spec.png
+
+newmtl Part715Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part715_spec.png
+
+newmtl Clamp3Mtl
+Material Color
+Ka 0.306635 0.254916 0.25084
+Kd 0.306635 0.254916 0.25084
+Ks 0.0553145 0.0459848 0.0452496 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Clamp3_spec.png
+
+newmtl Clamp4Mtl
+Material Color
+Ka 0.306635 0.254916 0.25084
+Kd 0.306635 0.254916 0.25084
+Ks 0.0553145 0.0459848 0.0452496 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Clamp4_spec.png
+
+newmtl Part784Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part784_spec.png
+
+newmtl Part718Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part718_spec.png
+
+newmtl Part719Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part719_spec.png
+
+newmtl Part721Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part721_spec.png
+
+newmtl Part723Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part723_spec.png
+
+newmtl Part725Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part725_spec.png
+
+newmtl Part727Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part727_spec.png
+
+newmtl Connection3Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Connection3_spec.png
+
+newmtl Part729Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0038975 0.0036567 0.00291409 
+
+d 1
+
+Ns 0
+
+map_Ka Part688_diff.png
+map_Kd Part688_diff.png
+map_d Part688_diff.png
+
+map_Bump Part688_nmap.png
+
+map_Ns Part729_spec.png
+
+newmtl Connection4Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Connection4_spec.png
+
+newmtl Part730Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part730_spec.png
+
+newmtl Part731Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part731_spec.png
+
+newmtl Part732Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part732_spec.png
+
+newmtl Part733Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part733_spec.png
+
+newmtl Part734Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part734_spec.png
+
+newmtl Part749Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part749_spec.png
+
+newmtl Part739Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.0256121 0.0240298 0.0191497 
+
+d 1
+
+Ns 202
+
+map_Ka Union5_diff.png
+map_Kd Union5_diff.png
+map_d Union5_diff.png
+
+map_Bump Union5_nmap.png
+
+map_Ns Part739_spec.png
+
+newmtl Part756Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part756_spec.png
+
+newmtl Part743Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part743_spec.png
+
+newmtl Part795Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part795_spec.png
+
+newmtl Part744Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part744_spec.png
+
+newmtl Part746Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part746_spec.png
+
+newmtl Part750Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part750_spec.png
+
+newmtl Part751Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part751_spec.png
+
+newmtl Part752Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part752_spec.png
+
+newmtl Part754Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part754_spec.png
+
+newmtl Union27Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Union27_spec.png
+
+newmtl Part755Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part755_spec.png
+
+newmtl Part757Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part757_spec.png
+
+newmtl Part803Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part803_spec.png
+
+newmtl Part781Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part781_spec.png
+
+newmtl Part783Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part783_spec.png
+
+newmtl Part785Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part785_spec.png
+
+newmtl Part787Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part787_spec.png
+
+newmtl Part788Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part788_spec.png
+
+newmtl Part789Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part789_spec.png
+
+newmtl Part791Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part791_spec.png
+
+newmtl Part792Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part792_spec.png
+
+newmtl Part793Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part793_spec.png
+
+newmtl Part797Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part797_spec.png
+
+newmtl Part798Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part798_spec.png
+
+newmtl Part799Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part799_spec.png
+
+newmtl Part800Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part800_spec.png
+
+newmtl Part801Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part801_spec.png
+
+newmtl Part804Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part804_spec.png
+
+newmtl Part805Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part805_spec.png
+
+newmtl Part831Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part831_spec.png
+
+newmtl Part806Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part806_spec.png
+
+newmtl Part844Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part844_spec.png
+
+newmtl Part807Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part807_spec.png
+
+newmtl Part808Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part808_spec.png
+
+newmtl Part811Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part811_spec.png
+
+newmtl Part812Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part812_spec.png
+
+newmtl Part814Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part814_spec.png
+
+newmtl Part815Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part815_spec.png
+
+newmtl Part817Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part817_spec.png
+
+newmtl Part818Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part818_spec.png
+
+newmtl Part819Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part819_spec.png
+
+newmtl Part820Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part820_spec.png
+
+newmtl Part821Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part821_spec.png
+
+newmtl Part822Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part822_spec.png
+
+newmtl Part823Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part823_spec.png
+
+newmtl Part824Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part824_spec.png
+
+newmtl Part825Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part825_spec.png
+
+newmtl Part842Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part842_spec.png
+
+newmtl Part826Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part826_spec.png
+
+newmtl Part827Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part827_spec.png
+
+newmtl Part829Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part829_spec.png
+
+newmtl Part857Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part857_spec.png
+
+newmtl Part830Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part830_spec.png
+
+newmtl Part836Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part836_spec.png
+
+newmtl Part839Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part839_spec.png
+
+newmtl Part840Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part840_spec.png
+
+newmtl Part843Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part843_spec.png
+
+newmtl Part846Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part846_spec.png
+
+newmtl Part847Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part847_spec.png
+
+newmtl Part848Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part848_spec.png
+
+newmtl Part850Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part850_spec.png
+
+newmtl Part851Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part851_spec.png
+
+newmtl Part852Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part852_spec.png
+
+newmtl Part853Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part853_spec.png
+
+newmtl Part855Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part855_spec.png
+
+newmtl Part859Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part859_spec.png
+
+newmtl Part860Mtl
+Material Color
+Ka 0.91575 0.612066 0.0253713
+Kd 0.91575 0.612066 0.0253713
+Ks 0.0215471 0.0144015 0.000596971 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part860_spec.png
+
+newmtl Part863Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part863_spec.png
+
+newmtl Part864Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.00879094 0.00159352 0.00159352 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part864_spec.png
+
+newmtl Part866Mtl
+Material Color
+Ka 0.0169881 0.215764 0.0581872
+Kd 0.0169881 0.215764 0.0581872
+Ks 0.000399719 0.00507681 0.00136911 
+
+d 1
+
+Ns 0
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+map_Bump Sphere1_nmap.png
+
+map_Ns Part866_spec.png
+

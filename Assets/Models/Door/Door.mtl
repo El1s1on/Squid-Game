@@ -1,0 +1,170 @@
+newmtl Triangle1Mtl
+Material Color
+Ka 0.368591 0.368591 0.368591
+Kd 0.368591 0.368591 0.368591
+Ks 0.0664909 0.0664909 0.0664909 
+
+d 1
+
+Ns 202
+
+map_Ka Triangle1_diff.png
+map_Kd Triangle1_diff.png
+map_d Triangle1_diff.png
+
+map_Bump Triangle1_nmap.png
+
+map_Ns Triangle1_spec.png
+
+newmtl Ignoreborders1Mtl
+Material Color
+Ka 0.505432 0.493616 0.517401
+Kd 0.505432 0.493616 0.517401
+Ks 0.0436059 0.0425865 0.0446386 
+
+d 1
+
+Ns 0
+
+map_Ka Ignoreborders1_diff.png
+map_Kd Ignoreborders1_diff.png
+map_d Ignoreborders1_diff.png
+
+map_Ns Ignoreborders1_spec.png
+
+newmtl Ignoreborders3Mtl
+Material Color
+Ka 0.505432 0.493616 0.517401
+Kd 0.505432 0.493616 0.517401
+Ks 0.0436059 0.0425865 0.0446386 
+
+d 1
+
+Ns 0
+
+map_Ka Ignoreborders1_diff.png
+map_Kd Ignoreborders1_diff.png
+map_d Ignoreborders1_diff.png
+
+map_Ns Ignoreborders3_spec.png
+
+newmtl Ignoreborders2Mtl
+Material Color
+Ka 0.505432 0.493616 0.517401
+Kd 0.505432 0.493616 0.517401
+Ks 0.0436059 0.0425865 0.0446386 
+
+d 1
+
+Ns 0
+
+map_Ka Ignoreborders1_diff.png
+map_Kd Ignoreborders1_diff.png
+map_d Ignoreborders1_diff.png
+
+map_Ns Ignoreborders2_spec.png
+
+newmtl Doorroot1Mtl
+Material Color
+Ka 0.505432 0.493616 0.517401
+Kd 0.505432 0.493616 0.517401
+Ks 0.0436059 0.0425865 0.0446386 
+
+d 1
+
+Ns 0
+
+map_Ka Ignoreborders1_diff.png
+map_Kd Ignoreborders1_diff.png
+map_d Ignoreborders1_diff.png
+
+map_Ns Doorroot1_spec.png
+
+newmtl Ignore11Mtl
+Material Color
+Ka 0.0581872 0.193972 0.0780566
+Kd 0.0581872 0.193972 0.0780566
+Ks 0.0104965 0.0349911 0.0140808 
+
+d 1
+
+Ns 202
+
+map_Ka Triangle1_diff.png
+map_Kd Triangle1_diff.png
+map_d Triangle1_diff.png
+
+map_Bump Triangle1_nmap.png
+
+map_Ns Ignore11_spec.png
+
+newmtl Ignore31Mtl
+Material Color
+Ka 0.0581872 0.193972 0.0780566
+Kd 0.0581872 0.193972 0.0780566
+Ks 0.0104965 0.0349911 0.0140808 
+
+d 1
+
+Ns 202
+
+map_Ka Triangle1_diff.png
+map_Kd Triangle1_diff.png
+map_d Triangle1_diff.png
+
+map_Bump Triangle1_nmap.png
+
+map_Ns Ignore31_spec.png
+
+newmtl Doorknob1Mtl
+Material Color
+Ka 0.0111261 0.0370285 0.0151752
+Kd 0.0111261 0.0370285 0.0151752
+Ks 0.000959897 0.00319462 0.00130924 
+
+d 1
+
+Ns 255
+
+map_Ka Doorknob1_diff.png
+map_Kd Doorknob1_diff.png
+map_d Doorknob1_diff.png
+
+map_Ns Doorknob1_spec.png
+
+newmtl Maindoorpart1Mtl
+Material Color
+Ka 0.00604059 0.0199178 0.00837312
+Kd 0.00604059 0.0199178 0.00837312
+Ks 0.00108968 0.00359302 0.00151044 
+
+d 1
+
+Ns 202
+
+map_Ka Triangle1_diff.png
+map_Kd Triangle1_diff.png
+map_d Triangle1_diff.png
+
+map_Bump Triangle1_nmap.png
+
+map_Ns Maindoorpart1_spec.png
+
+newmtl Triangle2Mtl
+Material Color
+Ka 0.368591 0.368591 0.368591
+Kd 0.368591 0.368591 0.368591
+Ks 0.0664909 0.0664909 0.0664909 
+
+d 1
+
+Ns 202
+
+map_Ka Triangle1_diff.png
+map_Kd Triangle1_diff.png
+map_d Triangle1_diff.png
+
+map_Bump Triangle1_nmap.png
+
+map_Ns Triangle2_spec.png
+
